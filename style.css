@@ -1,0 +1,141 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #e0e0d5;          
+  color: #c82525;
+  line-height: 1.6;
+  padding: 20px;
+}
+#main {
+  background: linear-gradient(45deg, #0057ff, #00c6ff);
+  padding: 20px;
+  color: white;
+}
+.hola {
+  transform: scale(1.03);
+  transition: 0.3s;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.4);
+}
+p {
+  color: blue;
+}
+.nota {
+  color: rgba(33, 57, 193, 0.816);
+}
+.card {
+  background: #f5f5f5;
+}
+.subtitulo {
+  border-bottom: 3px solid #0057ff;
+  padding-bottom: 5px;
+}
+
+
+.seccion.destacada {
+  background: rgba(0, 100, 255, 0.1);
+}
+
+.nota {
+  color: purple;
+}
+
+
+.rojo {
+  color: red;
+}
+p {
+  color: blue;
+}
+
+.rojo {
+  color: red;
+}
+#boton {
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+#especial {
+  color: green;
+}
+.aviso {
+  color: red;
+}
+
+section p.aviso {
+  color: blue;
+}
+
+#cambio {
+  color: green;
+}
+
+
+
+h1, h2, h3 {
+  font-weight: 700;
+  color: #1f6876;               
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-size: 2.2rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 1.4rem;
+  margin-top: 15px;
+}
+.card {
+  border: 2px solid #777;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.seccion {
+  border-left: 4px solid #0057ff;
+  padding-left: 15px;
+}
+
+
+p {
+  margin-bottom: 12px;
+  font-size: 1rem;
+  color: #444;
+}
+aside {
+  color: rgb(49, 130, 29) !important;
+}
+
+.normal {
+  color: rgb(36, 96, 14);
+}
+
+
+
+a {
+  color: #0066ff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
